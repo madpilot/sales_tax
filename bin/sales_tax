@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require File.expand_path(File.join(File.dirname(__FILE__), '..', 'lib', 'sales_tax'))
+require File.expand_path(File.join(File.dirname(__FILE__), '..', 'lib', 'sales_tax', 'cli'))
+
+SalesTax::CLI.run(ARGV)

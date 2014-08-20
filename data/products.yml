@@ -1,0 +1,26 @@
+products:
+  "book":
+    exempt: true
+    imported: false
+  "music cd":
+    exempt: false
+    imported: false
+  "chocolate bar":
+    exempt: true
+    imported: false
+  "imported box of chocolates":
+    exempt: true
+    imported: true
+  "imported bottle of perfume":
+    exempt: false
+    imported: true
+  "bottle of perfume":
+    exempt: false
+    imported: false
+  "packet of headache pills":
+    exempt: true
+    imported: false
+  "box of imported chocolates":
+    exempt: true
+    imported: true
+
