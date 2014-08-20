@@ -9,8 +9,8 @@ module SalesTax
           csv << item
         end
         csv << []
-        csv <<  [ 'Sales Taxes:', calculator.tax.format ]
-        csv << [ 'Total:', calculator.total.format ]
+        csv <<  [ 'Sales Taxes:', '', calculator.tax.format ]
+        csv << [ 'Total:', '', calculator.total.format ]
       end
 
       puts out
