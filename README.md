@@ -18,6 +18,11 @@ Quantity, Product, Price! 1, book, 12.49!
 
 ```bin/sales_tax input1.txt > output.csv```
 
+
+## Testing
+
+Run ```rspec```
+
 ## Notes
 
 1. I'm using the new RSpec syntax, as the one in those guidelines are deprecated
