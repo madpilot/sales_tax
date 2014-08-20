@@ -22,3 +22,4 @@ Quantity, Product, Price! 1, book, 12.49!
 
 1. I'm using the new RSpec syntax, as the one in those guidelines are deprecated
 1. I'm ingnoring the case change of "music CD" in the output of Output 1
+1. Requires Ruby 2.x+
