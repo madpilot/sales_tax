@@ -16,7 +16,7 @@ Quantity, Product, Price! 1, book, 12.49!
 1 chocolate bar, 0.85!
 ```
 
-```sales_tax input1.txt```
+```bin/sales_tax input1.txt```
 
 ## Notes
 
